@@ -100,10 +100,11 @@
 
 **ai.learner.py**
 
-![alt text](image.png)
+![alt text](https://github.com/VandavasiguruTrinath/Solving-the-Rubik-s-cube-with-ai/blob/main/learnerpic.jpg?raw=true)
 
 **rubicks.py**
 ![alt text](https://github.com/VandavasiguruTrinath/Solving-the-Rubik-s-cube-with-ai/blob/main/rubicpic.jpg?raw=true)
+
 
 
 
