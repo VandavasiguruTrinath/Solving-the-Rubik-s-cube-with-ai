@@ -103,7 +103,8 @@
 ![alt text](image.png)
 
 **rubicks.py**
-![alt text](image-1.png)
+![alt text](https://github.com/VandavasiguruTrinath/Solving-the-Rubik-s-cube-with-ai/blob/main/rubicpic.jpg?raw=true)
+
 
 
 
